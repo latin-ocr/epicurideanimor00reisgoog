@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./epicurideanimor00reisgoog_0006.png"; bbox 0 0 4780 5634; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 164 789 2129 1718">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 164 789 2129 1718">
+     <span class='ocr_line' id='line_1_1' title="bbox 1070 789 1410 972; baseline -0.003 -3"><span class='ocrx_word' id='word_1_1' title='bbox 1070 789 1410 972; x_wconf 81' lang='lat' dir='ltr'>EPIOURI</span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 164 1129 2115 1392; baseline -0.004 -77"><span class='ocrx_word' id='word_1_2' title='bbox 164 1227 171 1260; x_wconf 41' lang='grc' dir='ltr'><strong><em>ι</em></strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 364 1137 478 1314; x_wconf 83' lang='lat' dir='ltr'><strong>DE</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 534 1249 542 1392; x_wconf 85' lang='lat' dir='ltr'><em>j</em></span> <span class='ocrx_word' id='word_1_5' title='bbox 582 1131 1041 1312; x_wconf 85' lang='lat' dir='ltr'><strong>ANIMORUM</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 1157 1132 1509 1312; x_wconf 78' lang='lat' dir='ltr'><strong>NATURA</strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 1621 1129 1990 1311; x_wconf 79' lang='lat' dir='ltr'><strong>DOCTRIN</strong></span> <span class='ocrx_word' id='word_1_8' title='bbox 1992 1132 2115 1308; x_wconf 88' lang='lat' dir='ltr'><strong>AM</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 258 1469 2129 1718; baseline -0.007 -57"><span class='ocrx_word' id='word_1_9' title='bbox 258 1567 263 1661; x_wconf 90' lang='lat'><strong>:</strong></span> <span class='ocrx_word' id='word_1_10' title='bbox 412 1475 469 1652; x_wconf 97' lang='lat' dir='ltr'><strong>A</strong></span> <span class='ocrx_word' id='word_1_11' title='bbox 548 1469 963 1654; x_wconf 79' lang='lat' dir='ltr'><strong>LUGRETIO</strong></span> <span class='ocrx_word' id='word_1_12' title='bbox 1045 1469 1483 1698; x_wconf 79' lang='lat' dir='ltr'>DISCIPULO</span> <span class='ocrx_word' id='word_1_13' title='bbox 1561 1471 2129 1718; x_wconf 76' lang='lat' dir='ltr'><strong>TRACTATAAA</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 621 2797 1501 2966">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 621 2797 1501 2966">
+     <span class='ocr_line' id='line_1_4' title="bbox 621 2797 1501 2966; baseline -0.002 -63"><span class='ocrx_word' id='word_1_14' title='bbox 621 2881 623 2886; x_wconf 83' lang='lat'><em>.</em></span> <span class='ocrx_word' id='word_1_15' title='bbox 980 2799 1039 2902; x_wconf 82' lang='grc' dir='ltr'><strong>Δ.</strong></span> <span class='ocrx_word' id='word_1_16' title='bbox 1069 2797 1116 2902; x_wconf 75' lang='lat' dir='ltr'><strong>J.</strong></span> <span class='ocrx_word' id='word_1_17' title='bbox 1137 2797 1501 2966; x_wconf 49' lang='lat' dir='ltr'><strong>Quom</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 0 0 2394 5634">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 0 0 2394 5634">
+     <span class='ocr_line' id='line_1_5' title="bbox 0 0 2394 5634; baseline 0 0"><span class='ocrx_word' id='word_1_18' title='bbox 0 0 2394 5634; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
